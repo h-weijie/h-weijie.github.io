@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F07%2F30%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Hello World 你好，世界 不管我学何种编程语言，首先学的都是如何输出hello world，现在终于创建了自己的博客，我也写一篇hello world,记一记我在搭建个人博客中的一些感想吧。 创建个人博客的原由 自从学了JAVA后，尤其是在用JavaEE与tomcat完成一个模仿酒店订单的webapp后，我对前后端起了兴趣，开始了解起一个真正的网站是如何构建的。了解了域名、服务器、图床等概念，接触了html、css、javascript、mysql。渐渐的，我萌发了搭建个人博客的念头，想尝试下一个博客网站如何搭建，同时也想写点什么，整理所学知识。于是我开始搜集一些搭建博客的教程与资料。 搭建博客的过程 在搜索了众多资料，参考了众多大牛的博客后，我选择了hexo+github的方式搭建我的博客，主要参考了GitHub+Hexo 搭建个人网站详细教程这篇博客。而且为了实践下所学，我尝试着创建个人主题，参考了“不可能不确定”的Hexo 主题开发指南与MARKSZのBlog的博客，但最后发现我对html、css、js十分生疏，尤其是javasript。也怪我学的时候太心急，只看教程，从未动手实践，实际写代码的时候就是不知从何写起，不断地查文档。于是个人主题的创建就此暂停了，我打算先从头开始跟着教程把代码实际码一遍，等我真正熟悉这些语言时，希望我能拥有一个属于自己的hexo主题吧。 个人博客的搭建结果 最终我选择了next主题，因为它黑白搭配的风格挺适合我的。而对next主题的美化，我主要参考了Hexo博客优化之Next主题美化与hexo的next主题个性化教程这两篇博客。改好配置后，在本机试验了下，效果还不错，于是hexo d发布，完成了我的个人博客。]]></content>
+      <categories>
+        <category>新手上路</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
