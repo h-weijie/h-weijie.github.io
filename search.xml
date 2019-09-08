@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[hexo博客的使用]]></title>
     <url>%2F2019%2F09%2F07%2Fhexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BD%BF%E7%94%A8%2F</url>
-    <content type="text"><![CDATA[如何使用hexo写博客 自从博客建好后，我继续我的前端学习，边学边记了些笔记，今天想发在博客上时，突然发现有些忘记hexo如何用了,于是我想简单的记一记。 首先，官方文档 新建博客文章(posts)：先在博客目录下打开命令行，再执行命令$ hexo new &lt;title&gt; 写完文章后的部署与发布：$ hexo clean &amp;&amp;hexo g &amp;&amp;gulp &amp;&amp;hexo d]]></content>
+    <content type="text"><![CDATA[如何使用hexo写博客 自从博客建好后，我继续我的前端学习，边学边记了些笔记，今天想发在博客上时，突然发现有些忘记hexo如何用了,于是我想简单的记一记。 首先，官方文档 新建博客文章(posts)：先在博客目录下打开命令行，再执行命令$ hexo new &lt;title&gt; 分类与标签的设置(分类具有顺序性和层次性,而标签没有)： 12345categories:- Diarytags:- PS3- Games 写完文章后的部署与发布：$ hexo clean &amp;&amp;hexo g &amp;&amp;gulp &amp;&amp;hexo d]]></content>
       <categories>
         <category>新手上路</category>
       </categories>
@@ -19,7 +19,10 @@
         <category>Note</category>
       </categories>
       <tags>
-        <tag>前端 HTML CSS JavaScript</tag>
+        <tag>前端</tag>
+        <tag>HTML</tag>
+        <tag>CSS</tag>
+        <tag>JavaScript</tag>
       </tags>
   </entry>
   <entry>
